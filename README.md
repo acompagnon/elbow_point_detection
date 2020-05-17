@@ -24,7 +24,7 @@ Returns:
 
 # Source
 
-Finding a “Kneedle” in a Haystack:
-Detecting Knee Points in System Behavior
-Ville Satopaa†,Jeannie Albrecht†, David Irwin‡, and Barath Raghavan§
-https://raghavan.usc.edu/papers/kneedle-simplex11.pdf
+Finding a “Kneedle” in a Haystack:  
+Detecting Knee Points in System Behavior  
+Ville Satopaa†,Jeannie Albrecht†, David Irwin‡, and Barath Raghavan§  
+https://raghavan.usc.edu/papers/kneedle-simplex11.pdf  
